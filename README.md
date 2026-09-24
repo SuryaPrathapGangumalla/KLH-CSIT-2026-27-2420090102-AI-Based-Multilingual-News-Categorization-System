@@ -384,7 +384,7 @@ Additional tools may be used for experimentation, evaluation and visualization w
 | K. Rishiwan     | 2420030762 |
 | R. Sai Sidhardh | 2400032486 |
 
-**Team Number:** 6
+**Team Number:** 5
 
 **Guide:** KATANGURI SWATHANA
 Assistant Professor
